@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "phb": "node scripts/phb.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "less": "^3.11.1"
+  }
+}

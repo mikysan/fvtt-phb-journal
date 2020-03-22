@@ -3,7 +3,11 @@ A [Foundry VTT](https://foundryvtt.com/) module that render Journal Entries like
 
 ## Installation
 
-todo
+To install, follow these instructions:
+
+1. Inside Foundry, select the Game Modules tab in the Configuration and Setup menu.
+2. Click the Install Module button and enter the following URL: [https://github.com/mikysan/fvtt-homebrewery-journal/blob/master/module/module.json](https://github.com/mikysan/fvtt-homebrewery-journal/blob/master/module/module.json)
+3. Click Install and wait for installation to complete.
 
 ## Usage
 

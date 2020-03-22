@@ -1,0 +1,12 @@
+{
+  "name": "fvtt-homebrewery-journal",
+  "title": "FVTT Homebrewery Journal",
+  "description": "<p>Todo</p>",
+  "styles": [
+    "css/phb.css"
+  ],
+  "url": "https://github.com/mikysan/fvtt-homebrewery-journal",
+  "manifest": "https://github.com/mikysan/fvtt-homebrewery-journal/blob/master/module.json",
+  "download": "https://github.com/mikysan/fvtt-homebrewery-journal/archive/master.zip",
+  "minimumCoreVersion": "0.5.1"
+}

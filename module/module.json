@@ -5,6 +5,7 @@
   "styles": [
     "css/phb.css"
   ],
+  "scripts": ["phb.js"],
   "url": "https://github.com/mikysan/fvtt-phb-journal",
   "manifest": "https://github.com/mikysan/fvtt-phb-journal/blob/master/module/module.json",
   "download": "https://github.com/mikysan/fvtt-phb-journal/archive/master.zip",
